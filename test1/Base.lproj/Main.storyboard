@@ -48,7 +48,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hm6-pN-UXl">
                                         <rect key="frame" x="52" y="132" width="106" height="29"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" red="0.43220637104744991" green="0.52978739821739962" blue="0.79533678756476678" alpha="0.91549295774647887" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="backgroundColor" red="0.082070928868998569" green="0.57253886010362698" blue="0.11607420850870603" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <rect key="contentStretch" x="0.75" y="0.5" width="1" height="1"/>
                                         <color key="tintColor" systemColor="systemGroupedBackgroundColor"/>
                                         <state key="normal" title="вход"/>
